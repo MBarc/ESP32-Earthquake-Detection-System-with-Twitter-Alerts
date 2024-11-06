@@ -81,6 +81,7 @@ If you decide to monitor the serial output, you should see an output like this w
     ...
     Earthquake confirmed!
     Sending Twitter alert...
+   ```
 
 ### License
 
