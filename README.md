@@ -47,14 +47,7 @@ The project software is written in C++ and uses the **Arduino framework** with t
 
 ### Hardware Setup
 
-1. **Connect MPU6050 to ESP32**:
-   - `VCC` to `3.3V`
-   - `GND` to `GND`
-   - `SCL` to `GPIO 22`
-   - `SDA` to `GPIO 21`
-2. **Integrate the TP4056 and Lithium Battery**:
-   - Connect the TP4056 module’s output to the ESP32’s `VIN` and `GND`.
-   - Attach a USB-C cable to the TP4056 for charging.
+![alt text](https://github.com/MBarc/ESP32-Earthquake-Detection-System-with-Twitter-Alerts/blob/main/hardwareSetup.png)
 
 ### Software Setup
 
