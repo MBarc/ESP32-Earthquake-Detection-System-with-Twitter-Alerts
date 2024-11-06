@@ -51,8 +51,8 @@ The project software is written in C++ and uses the **Arduino framework** with t
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/esp32-earthquake-detection.git
-   cd esp32-earthquake-detection
+   git clone https://github.com/MBarc/ESP32-Earthquake-Detection-System-with-Twitter-Alerts.git
+   cd ESP32-Earthquake-Detection-System-with-Twitter-Alerts
 2. Open the project in the Arduino IDE or VSCode with the PlatformIO extension.
 3. **Install required libraries**:
    - In the Arduino IDE, go to **Tools > Manage Libraries** and install the libraries listed above.
