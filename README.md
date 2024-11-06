@@ -30,7 +30,6 @@ The project is designed for portability and reusability, making it a versatile a
 2. **MPU6050 Accelerometer and Gyroscope** - Measures acceleration to detect potential earthquakes.
 3. **TP4056 Charging Module** - Manages battery charging via USB-C.
 4. **Lithium-Ion Battery** - Provides portable power for the system.
-5. **USB-C Port** - For charging and data transmission.
 
 ## Software
 
