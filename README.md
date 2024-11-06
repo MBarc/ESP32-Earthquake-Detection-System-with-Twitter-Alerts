@@ -34,7 +34,8 @@ The project is designed for portability and reusability, making it a versatile a
 The project software is written in C++ and uses the **Arduino framework** with the following key libraries:
 
 - **Wire.h** - Handles I2C communication with MPU6050.
-- **I2Cdev.h** and **MPU6050.h** - Interfaces with the MPU6050 sensor.
+- **I2Cdev.h** - Helps read the data from the MPU6050 sensor.
+- **MPU6050.h** - Interfaces with the MPU6050 sensor. You can find this library on Github here -> https://github.com/ElectronicCats/mpu6050
 - **WiFi.h** - Connects to Wi-Fi for internet access.
 - **HTTPClient.h** - Sends HTTP requests to the Twitter API.
 - **mbedtls/md.h** - For SHA-1 and HMAC computation needed in OAuth signing.
