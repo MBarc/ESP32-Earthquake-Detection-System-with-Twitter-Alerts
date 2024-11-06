@@ -10,8 +10,6 @@ The project is designed for portability and reusability, making it a versatile a
 - [Software](#software)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Circuit Diagram](#circuit-diagram)
-- [Future Improvements](#future-improvements)
 - [License](#license)
 
 ---
