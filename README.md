@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Project Logo" width="200"/>
 </p>
 
-# ESP32 Earthquake Detection System with Twitter Alerts
+<h1 align="center">ESP32 Earthquake Detection System with Twitter Alerts</h1>
 
 This project is an **Earthquake Detection and Alert System** built using an **ESP32 microcontroller**, **MPU6050 accelerometer and gyroscope**, **TP4056 charging module**, and a **rechargeable USB-C battery**. When the device detects a seismic event, it sends a **Twitter alert** to notify users.
 
