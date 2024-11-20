@@ -48,7 +48,7 @@ The project software is written in C++ and uses the **Arduino framework** with t
 ## Setup and Installation
 
 ### Hardware Setup
-##![alt text](https://github.com/MBarc/ESP32-Earthquake-Detection-System-with-Twitter-Alerts/blob/main/hardwareSetup.png)
+##![alt text]()
 
 ### Software Setup
 
