@@ -32,7 +32,7 @@ The project is designed for portability and reusability, making it a versatile a
 2. **MPU6050 Accelerometer and Gyroscope** - Measures acceleration to detect potential earthquakes.
 3. **TP4056 Charging Module** - Manages battery charging via USB-C.
 4. **Lithium-Ion Battery** - Provides portable power for the system.
-5. **XL6009 Module** - Provide a steady 5v output to the ESP32. Prevents weird behavior observed due to fluctuating voltage input.
+5. **XL6009 Module** - Provides a steady 5v output to the ESP32. Prevents weird behavior observed due to fluctuating voltage input.
 
 ## Software
 
